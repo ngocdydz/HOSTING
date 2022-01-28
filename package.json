@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@discordjs/opus": "^0.5.3",
+    "ascii-table": "^0.0.9",
+    "axios": "^0.25.0",
+    "common-tags": "^1.8.2",
+    "discord.js": "^12.5.3",
+    "ffmpeg-static": "^4.4.1",
+    "google-tts-api": "^2.0.2"
+  }
+}
